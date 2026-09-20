@@ -1,2 +1,3 @@
 # Dumper-bloodstrike
-Dumper bloodstrike in py open source
+Dumper in python 
+i don't update the project
